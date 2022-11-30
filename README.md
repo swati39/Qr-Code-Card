@@ -1,2 +1,2 @@
 # Qr-Code-card
-Qr-Code-Card
+Simple QR-code-challenge
